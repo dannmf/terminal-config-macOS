@@ -1,0 +1,162 @@
+# ~/.config/starship.toml
+
+format = "[ ](bold green)$all $character "
+
+# ==========================================
+# CONFIGURAÇÕES PRINCIPAIS
+# ==========================================
+
+[directory]
+truncation_length = 3
+read_only = " 󰌾"
+style = "cyan"
+
+[git_branch]
+symbol = " "
+style = "green"
+
+[git_commit]
+tag_symbol = " "
+style = "yellow"
+
+[nodejs]
+symbol = " "
+style = "green"
+
+[python]
+symbol = " "
+style = "yellow"
+
+[docker_context]
+symbol = " "
+style = "blue"
+
+[memory_usage]
+symbol = "󰍛 "
+style = "bold red"
+
+[hostname]
+ssh_symbol = " "
+style = "magenta"
+
+[package]
+symbol = "📦 "
+style = "yellow"
+
+# ==========================================
+# LINGUAGENS E FERRAMENTAS
+# ==========================================
+
+[aws]
+symbol = " "
+
+[buf]
+symbol = " "
+
+[bun]
+symbol = " "
+
+[c]
+symbol = " "
+
+[cpp]
+symbol = " "
+
+[cmake]
+symbol = " "
+
+[conda]
+symbol = " "
+
+[crystal]
+symbol = " "
+
+[dart]
+symbol = " "
+
+[deno]
+symbol = " "
+
+[elixir]
+symbol = " "
+
+[elm]
+symbol = " "
+
+[fennel]
+symbol = " "
+
+[fossil_branch]
+symbol = " "
+
+[gcloud]
+symbol = " "
+
+[golang]
+symbol = " "
+
+[guix_shell]
+symbol = " "
+
+[haskell]
+symbol = " "
+
+[haxe]
+symbol = " "
+
+[java]
+symbol = " "
+
+[julia]
+symbol = " "
+
+[kotlin]
+symbol = " "
+
+[lua]
+symbol = " "
+
+[meson]
+symbol = "󰔷 "
+
+[nim]
+symbol = "󰆥 "
+
+[nix_shell]
+symbol = " "
+
+[ocaml]
+symbol = " "
+
+[perl]
+symbol = " "
+
+[php]
+symbol = " "
+
+[pijul_channel]
+symbol = " "
+
+[pixi]
+symbol = "󰏗 "
+
+[rlang]
+symbol = "󰟔 "
+
+[ruby]
+symbol = " "
+
+[rust]
+symbol = "󱘗 "
+
+[scala]
+symbol = " "
+
+[swift]
+symbol = " "
+
+[zig]
+symbol = " "
+
+[gradle]
+symbol = " "
