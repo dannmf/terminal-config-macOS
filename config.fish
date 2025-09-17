@@ -50,3 +50,13 @@ export FZF_CTRL_T_OPTS="
 --walker-skip .git,node_modules,target
 --preview 'bat -n --color=always {}'
 --bind 'ctrl-/:change-preview-window(down|hidden|)'"
+
+
+# ==========================================
+# CONFIGURAÇÕES DO TERMINAL
+# ==========================================
+
+function fish_user_key_bindings
+       bind \t accept-autosuggestion
+       bind right complete
+end
