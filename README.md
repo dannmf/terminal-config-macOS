@@ -5,11 +5,11 @@ Este repositório contém a configuração completa do meu terminal no macOS usa
 ## 📸 Screenshots
 
 ### Terminal Principal
-![Terminal Principal](screenshots/terminal-main.png)
+![Terminal Principal](screenshots/terminal_main.png)
 *Terminal com Starship prompt mostrando informações do Git e linguagens*
 
 ### Comandos em Ação
-![Comandos](screenshots/terminal-commands.png)
+![Comandos](screenshots/terminal_commands.png)
 *Demonstração dos aliases `ls`, `lt` (tree) e `cat` com syntax highlighting*
 
 ### FZF em Funcionamento
