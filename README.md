@@ -1,8 +1,8 @@
-# 🚀 Configuração do Terminal macOS
+# Configuração do Terminal macOS
 
 Este repositório contém a configuração completa do meu terminal no macOS usando **iTerm2**, incluindo Fish shell, Starship prompt e diversas ferramentas de produtividade.
 
-## 📋 Índice
+## Índice
 
 - [Pré-requisitos](#pré-requisitos)
 - [Instalação](#instalação)
@@ -11,7 +11,7 @@ Este repositório contém a configuração completa do meu terminal no macOS usa
 - [Aliases Disponíveis](#aliases-disponíveis)
 - [Personalização](#personalização)
 
-## 🔧 Pré-requisitos
+## Pré-requisitos
 
 ### Terminal
 - **iTerm2** - Terminal avançado para macOS (recomendado)
@@ -25,7 +25,7 @@ Gerenciador de pacotes para macOS:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-## 📦 Instalação
+## Instalação
 
 ### 1. Instalar as ferramentas necessárias
 
@@ -75,7 +75,7 @@ cp config.fish ~/.config/fish/
 cp starship.toml ~/.config/
 ```
 
-## 🛠️ Ferramentas Incluídas
+## Ferramentas Incluídas
 
 ### **iTerm2**
 - Terminal avançado com suporte a abas e painéis
@@ -115,14 +115,16 @@ cp starship.toml ~/.config/
 - Busca no histórico de comandos
 - Integração com Fish shell
 
-## ⚙️ Configuração
+## Configuração
 
 Os arquivos de configuração incluem:
 
 - **`config.fish`** - Configuração principal do Fish shell com aliases, caminhos e inicializações
 - **`starship.toml`** - Personalização do prompt com ícones e cores para diferentes linguagens
 
-### Caminhos Configurados
+### Caminhos Configurados (Pessoal)
+Esses caminhos depende muito das tecnologias que você utiliza.
+Exemplo:
 - Flutter SDK para desenvolvimento mobile
 - Android SDK e ferramentas
 - Windsurf IDE
@@ -133,7 +135,7 @@ Os arquivos de configuração incluem:
 - FZF com preview
 - Remoção da mensagem de boas-vindas
 
-## 🎯 Aliases Disponíveis
+## Aliases Disponíveis
 
 | Comando | Função |
 |---------|--------|
@@ -145,7 +147,7 @@ Os arquivos de configuração incluem:
 | `cat` | Visualização com syntax highlighting automático |
 | `codew` | Abre Windsurf no diretório atual |
 
-## 🎨 Personalização
+## Personalização
 
 ### Configurar Fonte no iTerm2
 1. Abra iTerm2 → Preferences → Profiles → Text
@@ -173,7 +175,7 @@ cp config.fish ~/.config/fish/
 cp starship.toml ~/.config/
 ```
 
-## 🆘 Solução de Problemas
+## Solução de Problemas
 
 ### Ícones não aparecem
 - Instale uma Nerd Font
@@ -187,4 +189,4 @@ cp starship.toml ~/.config/
 ---
 
 **Terminal:** iTerm2  
-**Desenvolvido por:** Daniel Manoel
+**By:** Daniel Manoel
