@@ -2,6 +2,24 @@
 
 Este repositório contém a configuração completa do meu terminal no macOS usando **iTerm2**, incluindo Fish shell, Starship prompt e diversas ferramentas de produtividade.
 
+## 📸 Screenshots
+
+### Terminal Principal
+![Terminal Principal](screenshots/terminal-main.png)
+*Terminal com Starship prompt mostrando informações do Git e linguagens*
+
+### Comandos em Ação
+![Comandos](screenshots/terminal-commands.png)
+*Demonstração dos aliases `ls`, `lt` (tree) e `cat` com syntax highlighting*
+
+### FZF em Funcionamento
+![FZF Preview](screenshots/fzf_preview.png)
+*Fuzzy finder com preview de arquivos usando Bat*
+
+### Bat em Funcionamento
+![Cat Preview](screenshots/terminal_cat.png)
+* Preview de arquivos utilizando somente Bat*
+
 ## Índice
 
 - [Pré-requisitos](#pré-requisitos)
@@ -188,6 +206,10 @@ cp starship.toml ~/.config/
 - Confirme a instalação: `which fish`
 
 ---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
 **Terminal:** iTerm2  
 **By:** Daniel Manoel
