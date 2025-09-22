@@ -123,7 +123,7 @@ Os arquivos de configuração incluem:
 - **`starship.toml`** - Personalização do prompt com ícones e cores para diferentes linguagens
 
 ### Caminhos Configurados (Pessoal)
-Esses caminhos depende muito das tecnologias que você utiliza.
+Esses caminhos dependem muito das tecnologias que você utiliza.
 Exemplo:
 
 - Flutter SDK para desenvolvimento mobile:
