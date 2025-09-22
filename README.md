@@ -125,9 +125,10 @@ Os arquivos de configuração incluem:
 ### Caminhos Configurados (Pessoal)
 Esses caminhos depende muito das tecnologias que você utiliza.
 Exemplo:
-- Flutter SDK para desenvolvimento mobile
-- Android SDK e ferramentas
-- Windsurf IDE
+
+- Flutter SDK para desenvolvimento mobile:
+fish_add_path /Users/user_name/development/flutter/bin
+
 
 ### Inicializações Automáticas
 - Starship prompt

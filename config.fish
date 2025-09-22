@@ -6,11 +6,11 @@ end
 # CONFIGURAÇÃO DE CAMINHOS (PATH)
 # ==========================================
 
-fish_add_path /Users/danielmanoel/development/flutter/bin
-fish_add_path /Users/danielmanoel/Library/Android/sdk/platform-tools
-fish_add_path /Users/danielmanoel/Library/Android/sdk/emulator
-fish_add_path /Users/danielmanoel/Library/Android/sdk/platform-tools/
-fish_add_path /Users/danielmanoel/Library/Android/sdk/tools
+fish_add_path /Users/user_name/development/flutter/bin
+fish_add_path /Users/user_name/Library/Android/sdk/platform-tools
+fish_add_path /Users/user_name/Library/Android/sdk/emulator
+fish_add_path /Users/user_name/Library/Android/sdk/platform-tools/
+fish_add_path /Users/user_name/Library/Android/sdk/tools
 fish_add_path /Applications/Windsurf.app/Contents/MacOS
 
 
