@@ -173,6 +173,15 @@ fish_add_path /Users/user_name/development/flutter/bin
 2. Selecione **FiraCode Nerd Font** como fonte
 3. Ative "Use ligatures" para símbolos especiais
 
+### Temas do iTerm2
+O iTerm2 possuí um site com diversos color-schemes para importação.
+
+1. Acesse o site: [iTermThemes](https://iterm2colorschemes.com)
+2. Faça o download dos temas
+3. Acesse as configurações do iTerm2: Settings --> Profile --> Colors
+4. No campo Color Preset selecione a opção de **import**
+4. Dentro da pasta baixada procure pela subpasta "schemes" e import os arquivos que são .itermcolors
+
 ### Temas do Starship
 Experimente diferentes temas pré-definidos:
 ```bash
